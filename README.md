@@ -3,6 +3,4 @@
 This is a realy awesone website
 
 
-Now editing on the update_readme branch
-
-Update locally
+Update made on main on Github before rebase
