@@ -7,6 +7,10 @@ Update made on main on Github before rebase
 
 
 
-##Repository Update
+Repository Update
 
 This file is just a readme file.
+
+##Purpose
+
+The purpose of this file is to provide examples on how to use Git and Github together.
